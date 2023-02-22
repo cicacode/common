@@ -1,4 +1,4 @@
-module github.com/erwindosianipar/common
+module github.com/cicacode/common
 
 go 1.19
 

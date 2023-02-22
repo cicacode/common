@@ -3,8 +3,8 @@ package request
 import (
 	"net/http"
 
-	"github.com/erwindosianipar/common/http/response"
-	"github.com/erwindosianipar/common/model"
+	"github.com/cicacode/common/http/response"
+	"github.com/cicacode/common/model"
 
 	"github.com/gin-gonic/gin"
 )

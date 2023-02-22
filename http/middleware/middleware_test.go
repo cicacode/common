@@ -5,9 +5,9 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/erwindosianipar/common/http/middleware"
-	"github.com/erwindosianipar/common/http/request"
-	"github.com/erwindosianipar/common/util/token"
+	"github.com/cicacode/common/http/middleware"
+	"github.com/cicacode/common/http/request"
+	"github.com/cicacode/common/util/token"
 
 	"github.com/gin-gonic/gin"
 	"github.com/stretchr/testify/assert"

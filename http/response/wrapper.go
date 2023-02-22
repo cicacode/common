@@ -3,7 +3,7 @@ package response
 import (
 	"net/http"
 
-	"github.com/erwindosianipar/common/model"
+	"github.com/cicacode/common/model"
 
 	"github.com/gin-gonic/gin"
 )
